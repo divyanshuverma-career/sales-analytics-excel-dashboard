@@ -84,7 +84,7 @@ The dataset is synthetic and was generated using ChatGPT to simulate real-world 
 
 - Review the insights report for business conclusions
 
-# Author
+## Author
 
-# Divyanshu Verma
-# Aspiring Data Analyst | Excel | SQL | Python | Power BI
+### Divyanshu Verma
+##### Aspiring Data Analyst | Excel | SQL | Python | Power BI
