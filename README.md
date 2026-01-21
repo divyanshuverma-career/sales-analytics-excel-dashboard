@@ -34,42 +34,42 @@ The dataset is synthetic and was generated using ChatGPT to simulate real-world 
 
 ## Key Analysis Performed
 
-Revenue and profit analysis by region
+- Revenue and profit analysis by region
 
-Monthly sales trend analysis (multi-year)
+- Monthly sales trend analysis (multi-year)
 
-Category-wise revenue and profitability comparison
+- Category-wise revenue and profitability comparison
 
-Customer segment contribution analysis
+- Customer segment contribution analysis
 
-Discount impact on sales and margins
+- Discount impact on sales and margins
 
-Dashboard Highlights
+## Dashboard Highlights
 
-Executive KPIs: Total Revenue, Profit, Orders, AOV, Profit Margin
+- Executive KPIs: Total Revenue, Profit, Orders, AOV, Profit Margin
 
-Interactive filters (Region, Year, Sales Channel)
+- Interactive filters (Region, Year, Sales Channel)
 
-Clean, one-page dashboard layout
+- Clean, one-page dashboard layout
 
-Business-focused insights and recommendations
+- Business-focused insights and recommendations
 
-Key Insights
+## Key Insights
 
-Strong overall revenue with stable monthly trends
+- Strong overall revenue with stable monthly trends
 
-High dependency on discounted orders impacts margins
+- High dependency on discounted orders impacts margins
 
-Furniture category delivers higher profitability compared to other categories
+- Furniture category delivers higher profitability compared to other categories
 
-Balanced customer segment contribution reduces dependency risk
+- Balanced customer segment contribution reduces dependency risk
 
-Files in This Repository
+## Files in This Repository
 
-/data → Raw and cleaned datasets
+- /data → Raw and cleaned datasets
 
-/dashboard → Excel / PDF dashboard
+- /dashboard → Excel / PDF dashboard
 
-/report → One-page executive insights report
+- /report → One-page executive insights report
 
-/images → Dashboard preview screenshots
+- /images → Dashboard preview screenshots
