@@ -1,6 +1,8 @@
 
 
 # 📊 Sales Analytics Dashboard (Excel / Google Sheets)
+![Dashboard Preview](images/Dashboard.png)
+
 ## Overview
 
 This project demonstrates an end-to-end sales analytics workflow using Excel / Google Sheets. The goal was to analyze sales performance across regions, product categories, customer segments, and time periods, and to present insights through an executive-level interactive dashboard.
