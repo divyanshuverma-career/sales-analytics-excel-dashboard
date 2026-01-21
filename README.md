@@ -75,3 +75,16 @@ The dataset is synthetic and was generated using ChatGPT to simulate real-world 
 - /report → One-page executive insights report
 
 - /images → Dashboard preview screenshots
+
+## How to Use
+
+- Download the Excel file from the Dataset folder
+
+- Explore pivot tables and KPIs
+
+- Review the insights report for business conclusions
+
+# Author
+
+# Divyanshu Verma
+# Aspiring Data Analyst | Excel | SQL | Python | Power BI
