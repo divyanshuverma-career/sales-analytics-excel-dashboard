@@ -66,7 +66,7 @@ The dataset is synthetic and was generated using ChatGPT to simulate real-world 
 
 ## Files in This Repository
 
-- /data → Raw and cleaned datasets
+- /dataset → Raw and cleaned datasets
 
 - /dashboard → Excel / PDF dashboard
 
