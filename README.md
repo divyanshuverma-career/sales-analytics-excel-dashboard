@@ -1,38 +1,38 @@
 
 
 # 📊 Sales Analytics Dashboard (Excel / Google Sheets)
-Overview
+## Overview
 
 This project demonstrates an end-to-end sales analytics workflow using Excel / Google Sheets. The goal was to analyze sales performance across regions, product categories, customer segments, and time periods, and to present insights through an executive-level interactive dashboard.
 
 The project focuses on data cleaning, analysis, and business storytelling, rather than just visualization.
 
-Dataset
+## Dataset
 
-~12,000 sales transactions
+- ~12,000 sales transactions
 
-Time period: 2023–2024
+- Time period: 2023–2024
 
-Includes region, category, customer segment, revenue, profit, discounts, and order-level metrics
+- Includes region, category, customer segment, revenue, profit, discounts, and order-level metrics
 
-Note:
+### Note:
 The dataset is synthetic and was generated using ChatGPT to simulate real-world sales data for learning and portfolio demonstration purposes.
 
-Tools & Skills Used
+## Tools & Skills Used
 
-Excel / Google Sheets
+- Excel / Google Sheets
 
-Advanced formulas: SUMIFS, COUNTIFS, IF, IFERROR, EOMONTH
+- Advanced formulas: SUMIFS, COUNTIFS, IF, IFERROR, EOMONTH
 
-Pivot Tables & Pivot Charts
+- Pivot Tables & Pivot Charts
 
-KPI calculations and trend analysis
+- KPI calculations and trend analysis
 
-Dashboard design & layout
+- Dashboard design & layout
 
-Business insights & reporting
+- Business insights & reporting
 
-Key Analysis Performed
+## Key Analysis Performed
 
 Revenue and profit analysis by region
 
